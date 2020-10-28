@@ -87,6 +87,41 @@ body {
   font-weight: 700;
 }
 
+.download {
+  background: #f1dfbc;
+  height: 305px;
+  margin-top: 170px;
+}
+
+.download img {
+  margin: 35px auto 0;
+}
+
+.download a {
+  display: block;
+  border: 5px solid #effd15;
+  background-color: #17753b;
+  color: #fff;
+  font-size: 32px;
+  margin: -10px auto 0;
+  padding: 27px 0;
+  position: relative;
+  width: 600px;
+  z-index: 1;
+}
+
+.gallery__title {
+  color: #d07a2d;
+  font-size: 40px;
+  margin-top: 120px;
+}
+
+.gallery__text {
+  font-size: 25px;
+  margin-top: 50px;
+  margin-bottom: 60px;
+}
+
 .gallery__inner {
   display: flex;
   flex-wrap: wrap;
